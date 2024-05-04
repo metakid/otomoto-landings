@@ -53,7 +53,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-- **Jean-Marc G. Matter** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- **Jean-Marc G. Matter** - *Main templete extracted and made flat from original wordpress* - [metakid](https://github.com/metakid)
 
 See also the list of [contributors](https://github.com/yourusername/otomoto-landing-page/contributors) who participated in this project.
 
