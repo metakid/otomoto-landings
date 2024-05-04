@@ -1,0 +1,122 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.row.masthead {
+  position: relative;
+  background: rgb(14,0,36);
+  background: linear-gradient(163deg, rgba(14,0,36,1) 0%, rgba(79,9,121,1) 39%, rgba(0,255,233,1) 99%);
+  background-size: cover;
+  padding-top: 7rem;
+  padding-bottom: 6rem;
+  -webkit-box-shadow: 0px 4px 19px -4px rgba(102,102,102,0.59);
+  -moz-box-shadow: 0px 4px 19px -4px rgba(102,102,102,0.59);
+  box-shadow: 0px 4px 19px -4px rgba(102,102,102,0.59);
+  text-align: center;
+}
+
+.row.masthead h3 {
+	color: white;
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.row.greybox {
+	border-bottom: solid 1px #dedede;
+	background-color: #ccc;
+	-webkit-box-shadow: 0px 4px 19px -4px rgba(102,102,102,0.29);
+	-moz-box-shadow: 0px 4px 19px -4px rgba(102,102,102,0.29);
+	box-shadow: 0px 4px 19px -4px rgba(102,102,102,0.29);
+	text-align: center;
+	padding: 50px;
+}
+
+.row.greybox div p {
+	font-size: 15px;
+}
+
+.row.last {
+	text-align: center;
+	padding: 50px;
+}
+
+.row {
+	background-color: white;
+}
+
+.row.main h3 {
+	font-weight: 300;
+}
+
+.footer {
+	background-color: #333;
+	color: white;
+}
+
+/* Custom CSS for JotForm */
+.jotform-form {
+    background: transparent; /* Clear any background */
+    padding: 0;
+    border: none;
+}
+
+/* Label styling */
+.form-label {
+    color: #333; /* Matching text color */
+    font-size: 14px; /* Appropriate font size */
+}
+
+/* Input and textarea styling */
+.input-text, .form-textarea {
+    width: 100%; /* Full width */
+    padding: 8px 10px; /* Comfortable padding */
+    border: 1px solid #ccc; /* Subtle border */
+    border-radius: 4px; /* Rounded corners */
+    box-sizing: border-box; /* Padding included in width */
+}
+
+/* Button styling */
+.form-submit-button {
+    background-color: ; /* Green background, adjust color as needed */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-submit-button:hover {
+    background-color: ; /* Slightly darker green on hover */
+}
+
+
+    .form-section {
+        background-color: red; /* Light grey background */
+        padding: 40px; /* Spacing around the form */
+        border-radius: 8px; /* Rounded corners */
+    }
+    .btn-primary {.
+        background-color: #0056b3; /* Custom primary color */
+        border: none;
+    }
+    .form-control {
+        height: auto; /* Adjust height */
+        padding: 10px; /* Larger padding for better readability */
+    }
+    .privacy-text {
+        font-size: 0.8rem; /* Smaller text for privacy assurance */
+        color: #ddd; /* Grey text color */
+        width: 100%;
+        margin-bottom: 50px;
+    }
